@@ -1,0 +1,29 @@
+{
+  "name": "quad",
+  "version": "2.0.0",
+  "description": "LightDM Webkit Theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parham-dev27/Quad.git"
+  },
+  "keywords": [
+    "webkit",
+    "quad",
+    "lightdm",
+    "login",
+    "manager",
+    "archlinux",
+    "arch",
+    "lightdm"
+  ],
+  "author": "parham-dev27",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parham-dev27/Quad/issues"
+  },
+  "homepage": "https://github.com/parham-dev27/Quad#readme"
+}
