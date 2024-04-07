@@ -4,7 +4,8 @@
   "description": "LightDM Webkit Theme",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "gulp build",
+    "dev": "gulp dev"
   },
   "repository": {
     "type": "git",
@@ -25,5 +26,13 @@
   "bugs": {
     "url": "https://github.com/parham-dev27/Quad/issues"
   },
-  "homepage": "https://github.com/parham-dev27/Quad#readme"
+  "homepage": "https://github.com/parham-dev27/Quad#readme",
+  "dependencies": {
+    "gulp": "^5.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-livereload": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "gulp-webserver": "^0.9.1",
+    "sass": "^1.74.1"
+  }
 }
