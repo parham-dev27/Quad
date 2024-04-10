@@ -7,7 +7,7 @@ const livereload = require("gulp-livereload");
 const webserver = require("gulp-webserver");
 const clean = require("gulp-clean");
 
-const sassMatch = "src/sass/**/*.sass";
+const sassMatch = "src/scss/**/*.scss";
 const htmlMatch = "src/index.html";
 const jsMatch = "src/js/*.js";
 const outBase = "dist";
