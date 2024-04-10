@@ -1,4 +1,5 @@
 const path = require("path");
+const fs = require("fs-extra");
 
 const gulp = require("gulp");
 const sass = require("gulp-sass")(require("sass"));
@@ -31,7 +32,7 @@ function setup() {
 }
 
 function static() {
-    return gulp.src("src/static/**/*").pipe(gulp.dest(outBase));
+    return fs.copy("src/static", outBase);
 }
 
 const build = gulp.series(setup, compileSass, html, js, static);
