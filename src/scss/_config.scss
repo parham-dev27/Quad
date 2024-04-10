@@ -1,0 +1,11 @@
+$primary-font: 14px "SFNS Display";
+
+$primary-color: #2f343f;
+$primary-color-compliment: #f3f4f5;
+
+@mixin SFNS-Display {
+    @font-face {
+        font-family: "SFNS Display";
+        src: url("/fonts/SFNSDisplay.ttf");
+    }
+}
