@@ -41,7 +41,7 @@ Designed For Elite Hackers
 
 1. Download the [latest release](https://github.com/parham-dev27/Quad/releases)
 1. Extract using: `tar -xzf Quad.tgz`
-1. `cp -r quad /usr/share/lightdm-webkit/themes/`
+1. `sudo cp -r quad /usr/share/lightdm-webkit/themes/`
 1. Set lightdm greeter session to webkit2 using:
     ```sh
     sudo sed -i 's/^\(#?greeter\)-session\s*=\s*\(.*\)/greeter-session = lightdm-webkit2-greeter #\1/ #\2g' /etc/lightdm/lightdm.conf
