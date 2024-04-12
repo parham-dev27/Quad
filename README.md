@@ -32,7 +32,7 @@ Designed For Elite Hackers
 
 ![screenshot](screenshot.png)
 
-<p align="center"><a href="#{LIVE}">Live Version</a></p>
+<p align="center"><a href="https://parham-dev27.github.io/Quad/">Live Version</a></p>
 
 ## Installation
 
