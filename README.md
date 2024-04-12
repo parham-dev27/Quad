@@ -12,12 +12,14 @@ Rewrite of <a href="https://github.com/jackdeadman/quad">Quad-Theme</a>
 Designed For Elite Hackers
 </h4>
 
-<center>
+<p align="center">
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+
+</p>
 
 <p align="center">
   <a href="#installation">Installation</a> •
@@ -29,9 +31,8 @@ Designed For Elite Hackers
 </p>
 
 ![screenshot](screenshot.png)
-<a href="#{LIVE}">Live Version</a>
 
-</center>
+<p align="center"><a href="#{LIVE}">Live Version</a></p>
 
 ## Installation
 
