@@ -99,6 +99,7 @@ MIT
 > GitHub [@parham-dev27](https://github.com/parham-dev27) &nbsp;&middot;&nbsp;
 > Github [@jackdeadman](https://github.com/jackdeadman)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- IMG -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/parham-dev27/Quad.svg?style=for-the-badge
